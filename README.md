@@ -4,7 +4,7 @@ Xing.com employee enumeration tool for OSINT
 
 ## About Xinger
 
-Xing.com is a python tool designed to enumerate through a companies entire employee list to gather each employee's name, role, and Xing Profile Link. Xinger utilizes multiple jQuery get requests to collect and parse, then present or save a companies workforce.
+Xing.com is a python tool designed to enumerate through a companies entire employee list to gather each employee's name, role, and Xing Profile Link. This tool does not require a Xing Account to fully function. Xinger utilizes multiple jQuery get requests to collect and parse, then present or save a companies workforce.
 
 ## Installation
 
