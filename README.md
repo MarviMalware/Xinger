@@ -42,15 +42,15 @@ sudo pip install -r requirements.txt
 ## Examples
   * Prints an enumerated Employee List within the console.
 ```bash
-python Xinger.py https://www.xing.com/company/xing
+python3 Xinger.py https://www.xing.com/company/xing
 ```
   * Prints an enumerated Employee List within the console, then saving it to a specified file.
 ```bash
-python Xinger.py -f employeeList.txt https://www.xing.com/company/xing
+python3 Xinger.py -f employeeList.txt https://www.xing.com/company/xing
 ```
   * Saves the resulting list to a specified file without printing anything to the console. (Silences the banner aswell)
 ```bash
-python Xinger.py -s -f employeeList.txt https://www.xing.com/company/xing
+python3 Xinger.py -s -f employeeList.txt https://www.xing.com/company/xing
 ```
 
 ## Contributing
